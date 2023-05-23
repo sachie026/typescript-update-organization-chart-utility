@@ -1,4 +1,10 @@
-## typescript-update-organization-chart-utility
+## typescript-update-organization-chart-utility using OOPs
+
+### Folder structure
+
+- `employeesList.ts` contains all the data part. It has the list of all employees and organization chart structure.
+- `shared.ts` contains all the interfaces.
+- `index.ts` contains all the business logic.
 
 ### Variable terminologies
 
