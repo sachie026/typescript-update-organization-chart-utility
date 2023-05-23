@@ -1,5 +1,12 @@
 ## typescript-update-organization-chart-utility using OOPs
 
+### How to run
+
+- Open terminal and move to the cloned folder.
+- ts-node index.ts
+
+You will see the console output. You can comment/remove few operations and run the file again to see the valid output.
+
 ### Folder structure
 
 - `employeesList.ts` contains all the data part. It has the list of all employees and organization chart structure.
